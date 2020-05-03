@@ -1,3 +1,5 @@
+#solves inverse SIR problem with population as a variable (provides effective susceptible population estimate)
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
